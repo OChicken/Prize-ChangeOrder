@@ -1,2 +1,12 @@
-# Prize-ChangeOrder
-Automatically change the name order on a prize via Python. It can be used in MCM prize or SCUT-UPT prize
+# 物理学术竞赛智育分奖状生成 小程序
+
+## 使用说明:
+
+1. 请把template.docx右下角的年份改成当前的年份. 如今年是2018年, 则改成'二〇一八';
+2. 按照Prize.xlsx里面的格式把获奖名单录入进去, 注意里面有三个工作表分别对应一二三等奖, 切勿随意增删格式!
+3. 双击 "PrizeFile_Creat_pdf.exe", 一键生成所有pdf格式的奖状;
+4. 双击 "PrizeFile_Creat_docx.exe", 一键生成所有docx格式的奖状.
+
+## 一点提醒
+
+一般来说, 有了pdf格式的奖状就够用了, 不必执行第4步生成docx格式的奖状. 因为某些历史遗留bugs, 第3, 4步的执行不可调换顺序, 否则生成了的docx奖状会被pdf奖状替换掉.
