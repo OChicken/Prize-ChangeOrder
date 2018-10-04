@@ -1,12 +1,7 @@
-# ÎïÀíÑ§Êõ¾ºÈüÖÇÓý·Ö½±×´Éú³É Ð¡³ÌÐò
+# ç‰©ç†å­¦æœ¯ç«žèµ›æ™ºè‚²åˆ†å¥–çŠ¶ç”Ÿæˆ å°ç¨‹åº
 
-## Ê¹ÓÃËµÃ÷:
+## ä½¿ç”¨è¯´æ˜Ž:
 
-1. Çë°Ñtemplate.docxÓÒÏÂ½ÇµÄÄê·Ý¸Ä³Éµ±Ç°µÄÄê·Ý. Èç½ñÄêÊÇ2018Äê, Ôò¸Ä³É'¶þ©–Ò»°Ë';
-2. °´ÕÕPrize.xlsxÀïÃæµÄ¸ñÊ½°Ñ»ñ½±Ãûµ¥Â¼Èë½øÈ¥, ×¢ÒâÀïÃæÓÐÈý¸ö¹¤×÷±í·Ö±ð¶ÔÓ¦Ò»¶þÈýµÈ½±, ÇÐÎðËæÒâÔöÉ¾¸ñÊ½!
-3. Ë«»÷ "PrizeFile_Creat_pdf.exe", Ò»¼üÉú³ÉËùÓÐpdf¸ñÊ½µÄ½±×´;
-4. Ë«»÷ "PrizeFile_Creat_docx.exe", Ò»¼üÉú³ÉËùÓÐdocx¸ñÊ½µÄ½±×´.
-
-## Ò»µãÌáÐÑ
-
-Ò»°ãÀ´Ëµ, ÓÐÁËpdf¸ñÊ½µÄ½±×´¾Í¹»ÓÃÁË, ²»±ØÖ´ÐÐµÚ4²½Éú³Édocx¸ñÊ½µÄ½±×´. ÒòÎªÄ³Ð©ÀúÊ·ÒÅÁôbugs, µÚ3, 4²½µÄÖ´ÐÐ²»¿Éµ÷»»Ë³Ðò, ·ñÔòÉú³ÉÁËµÄdocx½±×´»á±»pdf½±×´Ìæ»»µô.
+1. è¯·æŠŠtemplate.docxå³ä¸‹è§’çš„å¹´ä»½æ”¹æˆå½“å‰çš„å¹´ä»½. å¦‚ä»Šå¹´æ˜¯2018å¹´, åˆ™æ”¹æˆ'äºŒã€‡ä¸€å…«';
+2. æŒ‰ç…§Prize.xlsxé‡Œé¢çš„æ ¼å¼æŠŠèŽ·å¥–åå•å½•å…¥è¿›åŽ», æ³¨æ„é‡Œé¢æœ‰ä¸‰ä¸ªå·¥ä½œè¡¨åˆ†åˆ«å¯¹åº”ä¸€äºŒä¸‰ç­‰å¥–, åˆ‡å‹¿éšæ„å¢žåˆ æ ¼å¼!
+3. åŒå‡» "PrizeFile_Create.exe", ä¸€é”®ç”Ÿæˆæ‰€æœ‰pdfæ ¼å¼å’Œdocxæ ¼å¼çš„å¥–çŠ¶, å…¶ä¸­pdfæ ¼å¼çš„å¥–çŠ¶å¯ä»¥ç›´æŽ¥æ‹¿åŽ»æ‰“å°.
